@@ -370,7 +370,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 * [SwiftSense](https://github.com/itsmelissadev/SwiftSense) - Gaming tuner that uses Shizuku to freeze background apps, disable packages and raise sensor sampling rates. `GPL-3.0`
 * [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order game translation project `MIT`
 * [WaffleBoost](https://github.com/WafflingNinja/waffleboost) - Free, open-source ADB game booster: 27 tweaks over wireless debugging, reverted when you stop playing. Optional Shizuku fallback (not yet tested on device). `MIT`
-
+* [HyperEngine Game Turbo Pro](https://github.com/nc-hyper/HyperEngine-Game-turbo-Pro) - Android game booster and in-game HUD overlay with 3D Game Space, Wild Boost, 5-layer refresh-rate lock, HyperBoost upscaling, macros, and ROM Lab `MIT`
 ### Input methods
 
 * [8bitdo-xbox-bridge](https://github.com/BoredNewCoder/8bitdo-xbox-bridge) - Makes the 8BitDo Ultimate Wired Controller for Xbox work as a real system-wide gamepad on Android TV via the reverse-engineered GIP protocol and Shizuku uinput injection. `MIT`
